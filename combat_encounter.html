@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Azure Rivals - Combat Encounter</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; 
+            background: #0f172a; 
+            color: #f1f5f9; 
+            max-width: 750px; 
+            margin: 40px auto; 
+            padding: 0 20px;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #334155;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+        }
+        .header h1 { color: #38bdf8; margin: 0; font-size: 2.2em; text-transform: uppercase; letter-spacing: 2px; }
+        .header p { color: #94a3b8; margin: 5px 0 0 0; }
+        .question-card { 
+            background: #1e293b; 
+            padding: 25px; 
+            border-radius: 12px; 
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3); 
+            margin-bottom: 25px; 
+            border: 1px solid #334155;
+        }
+        .tag { 
+            font-size: 0.75em; 
+            background: #0284c7; 
+            padding: 4px 10px; 
+            border-radius: 4px; 
+            font-weight: bold; 
+            color: white; 
+            text-transform: uppercase;
+        }
+        .passage { background: #0f172a; padding: 15px; border-radius: 8px; border-left: 4px solid #38bdf8; margin: 15px 0; font-size: 0.95em; color: #cbd5e1; }
+        .prompt { font-weight: bold; font-size: 1.05em; margin-bottom: 15px; color: #f8fafc; }
+        .choice-container { display: flex; flex-direction: column; gap: 10px; }
+        .choice { 
+            padding: 12px 15px; 
+            background: #334155; 
+            border: 1px solid #475569; 
+            border-radius: 6px; 
+            cursor: pointer; 
+            transition: all 0.2s ease;
+            font-size: 0.95em;
+        }
+        .choice:hover { background: #475569; border-color: #64748b; }
+        
+        /* Interactive Response States */
+        .choice.correct-clicked { background: #16a34a !important; border-color: #22c55e !important; color: white; font-weight: bold; }
+        .choice.wrong-clicked { background: #dc2626 !important; border-color: #ef4444 !important; color: white; }
+        .choice.revealed-correct { background: #15803d !important; border-color: #16a34a !important; color: white; opacity: 0.9; font-weight: bold;}
+        .choice.disabled { pointer-events: none; }
+        
+        .footer-action { text-align: center; margin-top: 40px; margin-bottom: 60px; }
+        .return-btn { 
+            display: none; 
+            background: #38bdf8; 
+            color: #0f172a; 
+            font-weight: bold; 
+            font-size: 1.2em; 
+            padding: 15px 40px; 
+            border: none; 
+            border-radius: 8px; 
+            cursor: pointer; 
+            text-transform: uppercase;
+            box-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+        }
+        .return-btn:hover { background: #7dd3fc; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>⚔️ Azure Rivals Combat Encounter</h1>
+        <p>Answer 3 questions correctly to unleash your attack!</p>
+    </div>
+
+    <div id="quiz-container">
+
+    <div class="question-card" data-correct="C">
+        <span class="tag">Information and Ideas</span>
+        <div class='passage'>For centuries, scholars have debated the origins of the Great Pyramid of Giza. One school of thought posits that the pyramid was built by the ancient Egyptians, while another school of thought attributes its construction to aliens from outer space. The ancient Egyptians, for their part, believed in a system of gods and goddesses, and some scholars argue that the pyramid was built as a tomb for a powerful pharaoh. The theory of alien intervention, on the other hand, relies on the idea that the pyramid could not have been built with the technology that was available to the ancient Egyptians. This theory is often cited as evidence of the ancient Egyptians’ advanced knowledge of astronomy and mathematics, as they were able to align the pyramid with the stars. However, there is no concrete evidence to support this theory.</div>
+        <p class="prompt"><strong>Q1.</strong> Which of the following statements best summarizes the author’s viewpoint on the origins of the Great Pyramid of Giza?</p>
+        <div class="choice-container">
+    <div class="choice" data-letter="A"><strong>A)</strong> The author believes that the pyramid was built by the ancient Egyptians, using advanced technology and astronomical knowledge.</div><div class="choice" data-letter="B"><strong>B)</strong> The author presents the theory of alien intervention as a plausible explanation for the pyramid’s construction, but does not offer any evidence to support it.</div><div class="choice" data-letter="C"><strong>C)</strong> The author does not explicitly state a viewpoint on the origins of the pyramid but presents both the Egyptian and alien theories, leaving the reader to form their own conclusion.</div><div class="choice" data-letter="D"><strong>D)</strong> The author supports the theory that the pyramid was built as a tomb for a powerful pharaoh, citing the ancient Egyptians’ belief in a system of gods and goddesses as evidence.</div></div></div>
+    <div class="question-card" data-correct="B">
+        <span class="tag">Expression of Ideas</span>
+        <div class='passage'>The author’s argument that the use of the word "cool" as a synonym for "good" signals a shift in the speaker’s perception of what is considered desirable is supported by the fact that "cool" is often used to describe things that are fashionable or modern, not necessarily things that are good in a traditional or moral sense.  What is the author’s argument?</div>
+        <p class="prompt"><strong>Q2.</strong> The author’s argument is that the word "cool"</p>
+        <div class="choice-container">
+    <div class="choice" data-letter="A"><strong>A)</strong> is a synonym for "good" and is therefore appropriate for use in any situation.</div><div class="choice" data-letter="B"><strong>B)</strong> is used to describe things that are fashionable or modern, and this use signals a shift in the speaker’s perception of what is considered desirable.</div><div class="choice" data-letter="C"><strong>C)</strong> is often used to describe things that are not necessarily good in a traditional or moral sense, and this use suggests that the speaker is being ironic.</div><div class="choice" data-letter="D"><strong>D)</strong> can be used to describe things that are good in a traditional or moral sense, but this use is not necessarily modern.</div></div></div>
+    <div class="question-card" data-correct="B">
+        <span class="tag">Craft and Structure</span>
+        <div class='passage'>The author uses a series of short, declarative sentences to describe the scene. This creates a sense of urgency and immediacy. It also emphasizes the speaker's growing anxiety. What is the most likely reason the writer uses this style?</div>
+        <p class="prompt"><strong>Q3.</strong> What is the most likely reason the author uses short, declarative sentences in this passage?</p>
+        <div class="choice-container">
+    <div class="choice" data-letter="A"><strong>A)</strong> To create a sense of suspense and anticipation.</div><div class="choice" data-letter="B"><strong>B)</strong> To emphasize the speaker's emotional state.</div><div class="choice" data-letter="C"><strong>C)</strong> To provide a vivid description of the scene.</div><div class="choice" data-letter="D"><strong>D)</strong> To highlight the speaker's sense of confusion.</div></div></div>
+    </div>
+
+    <div class="footer-action">
+        <button class="return-btn" id="returnBtn" onclick="window.close()">⚡ Return to Fighting Arena</button>
+    </div>
+
+    <script>
+        let answeredCount = 0;
+        const totalQuestions = 3;
+
+        document.querySelectorAll('.question-card').forEach(card => {
+            const correctAnswer = card.getAttribute('data-correct');
+            const choices = card.querySelectorAll('.choice');
+
+            choices.forEach(choice => {
+                choice.addEventListener('click', () => {
+                    const selectedLetter = choice.getAttribute('data-letter');
+                    
+                    // Freeze all choices for this specific question card
+                    choices.forEach(c => c.classList.add('disabled'));
+
+                    if (selectedLetter === correctAnswer) {
+                        choice.classList.add('correct-clicked');
+                    } else {
+                        choice.classList.add('wrong-clicked');
+                        // Find and highlight the right choice anyway
+                        card.querySelector(`[data-letter="${correctAnswer}"]`).classList.add('revealed-correct');
+                    }
+
+                    // Count this question as completed
+                    answeredCount++;
+                    if (answeredCount === totalQuestions) {
+                        document.getElementById('returnBtn').style.display = 'inline-block';
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
