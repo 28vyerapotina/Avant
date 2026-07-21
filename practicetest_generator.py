@@ -58,3 +58,7 @@ with open('viewer.html', 'w', encoding='utf-8') as f:
 
 webbrowser.open('file://' + os.path.realpath('viewer.html'))
 print("Successfully opened the visual test document in your web browser!")
+
+
+
+
