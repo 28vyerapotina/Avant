@@ -1,0 +1,1145 @@
+{
+    "english_tests": [
+        {
+            "name": "English Practice Test #4",
+            "module_1": [
+                {
+                    "id": "random_id_a8",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The author of the article suggests that the current economic climate is characterized by both opportunity and uncertainty.",
+                            "B": "The author of the article argues that the increase in online shopping is a sign of the economic uncertainty that consumers are facing.",
+                            "C": "The author of the article suggests that the rise of e-commerce is an example of the new opportunities that businesses are facing in the current economic climate.",
+                            "D": "The author of the article concludes by arguing that businesses need to be aware of both the opportunities and the challenges of the new economic climate in order to succeed."
+                        },
+                        "question": "Which choice best describes the main idea of the article?",
+                        "paragraph": "The author of the article suggests that the current economic climate is characterized by both opportunity and uncertainty.  One of the main points is that the rise in the popularity of online shopping is an example of this uncertainty. The author explains that consumers are constantly trying to predict how prices will fluctuate, and that this leads to a great deal of anxiety.  Another of the author\u2019s main points is that the increase in the use of e-commerce is an example of the opportunities presented by the new economic climate. The author suggests that the ability of businesses to reach a wider audience through online platforms is a major advantage that is helping to drive economic growth. The author concludes the article by arguing that businesses need to be aware of both the opportunities and the challenges of the new economic climate in order to succeed.  Which of the following choices best describes the main idea of the article?",
+                        "explanation": "The main idea of the article is that the current economic climate is characterized by both opportunity and uncertainty. The author discusses both the uncertainty associated with online shopping and the opportunities presented by e-commerce.  Therefore, A is the best choice.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "a7d69241",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "people are more likely to understand and remember information if it is emotionally relevant to them.",
+                            "B": "people are better able to process information if they are given the opportunity to learn the information in a structured way.",
+                            "C": "people who are emotionally connected to the information are more likely to be able to remember it.",
+                            "D": "people's ability to understand information is affected by how the information is presented."
+                        },
+                        "question": "The research suggests that",
+                        "paragraph": "Many people believe that the amount of information a person can process is limited.  However, a research team at the University of California, Berkeley, has found that people are more likely to process and understand information if they have an emotional connection to it.  They found that by presenting information that is relevant to a participant\u2019s own life, the participant was more likely to recall it and be able to make connections with other information.  In other words, the research suggests that  people\u2019s ability to process information is not necessarily limited by the amount of information, but rather by how it is presented.  What is the best interpretation of this research?",
+                        "explanation": "The passage clearly states that people are more likely to understand and remember information if it is emotionally relevant to them. The rest of the passage details how this was found and the significance of the study, but doesn\u2019t contradict the main idea.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_c5",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The study of history is essential for understanding current social issues.",
+                            "B": "History is a vital tool for shaping a better future.",
+                            "C": "By studying history, we can learn from the mistakes of the past.",
+                            "D": "All of the above"
+                        },
+                        "question": "What is the main idea of this passage?",
+                        "paragraph": "The author\u2019s main argument in this essay is that the study of history is more than simply remembering past events. History is a vital tool for understanding current social issues, as well as for shaping a better future. The author uses examples of historical events and figures to illustrate this point. For instance, the author points to the Civil Rights Movement as an example of how understanding the past can help us to address the challenges of the present. The author also argues that by studying history, we can learn from the mistakes of the past and avoid repeating them. This suggests that history is not just about the past, but also about the present and the future.",
+                        "explanation": "The passage makes several points about the importance of studying history. The author argues that history is important for understanding present social issues, as well as for shaping a better future. Additionally, the author suggests that by studying history, we can learn from the mistakes of the past. Therefore, the correct answer is \"All of the above.\"",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_b6",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "people in that country are likely to eat more fresh produce in the future.",
+                            "B": "people in that country are likely to eat less packaged food in the future.",
+                            "C": "most people in that country are not able to make informed decisions about the food they consume.",
+                            "D": "the nutritional information that is found on packaged food is accurate."
+                        },
+                        "question": "In this argument, the author\u2019s conclusion that many people in that country will not be able to make informed decisions about the food they consume unless a solution is found to address this issue relies on what assumption?",
+                        "paragraph": "The author of the text states that \"the vast majority\" of people who use their cell phones in a certain country are not able to read the small print on food labels.  The author also states that many people in that country are beginning to eat more fresh produce, including produce that is not labeled with the nutritional information that is found on packaged food.  The author concludes that many people in that country will not be able to make informed decisions about the food they consume unless a solution is found to address this issue.  The author\u2019s argument relies on the assumption that",
+                        "explanation": "The author's argument is based on the assumption that \"most people in that country are not able to make informed decisions about the food they consume.\" The author believes that people are unable to make informed decisions because they can\u2019t read the small print on food labels.  This argument relies on the assumption that people who can\u2019t read the small print on food labels are unable to make informed decisions about the food they consume. If people in that country can make informed decisions about the food they consume even if they cannot read the small print on food labels, the author\u2019s argument falls apart.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_1",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "Scientific theories must be testable and falsifiable in order to be considered valid.",
+                            "B": "The theory of relativity is a testable and falsifiable scientific theory that has not been proven false.",
+                            "C": "Philosophical theories are not testable or falsifiable, but they can still be valuable.",
+                            "D": "Scientific theories are different from philosophical theories in that they are testable and falsifiable."
+                        },
+                        "question": "Which choice best summarizes the main idea of the passage?",
+                        "paragraph": "The most important thing to consider about scientific theories is whether they are testable and falsifiable. A theory is testable if it can be tested through experimentation or observation. A theory is falsifiable if it can be proven false through experimentation or observation.  If a theory is not testable or falsifiable, then it is not a scientific theory. However, this does not mean that a theory is wrong or useless. For example, the theory of relativity is testable and falsifiable, but it has not been proven false. It is also not testable or falsifiable, but it is also not a scientific theory. Instead, it is a philosophical theory. ",
+                        "explanation": "The passage emphasizes the importance of testability and falsifiability for scientific theories. It explains that a theory must be able to be tested and potentially proven false through observation or experimentation in order to be considered a valid scientific theory.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_e8",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "the USPS\u2019s decision to eliminate Saturday delivery of first-class mail and the reactions to this decision.",
+                            "B": "the declining mail volumes that have been affecting the USPS in recent years.",
+                            "C": "the USPS\u2019s efforts to improve efficiency and save money.",
+                            "D": "the impact of the USPS\u2019s decision to eliminate Saturday delivery of first-class mail on rural communities."
+                        },
+                        "question": "The passage primarily focuses on",
+                        "paragraph": "The United States Postal Service (USPS) has been facing declining mail volumes for years, with more people opting for electronic communication and e-commerce. In 2021, the USPS announced plans to eliminate Saturday delivery of first-class mail. This decision was met with mixed reactions, with some arguing that it would save the USPS money and improve efficiency, while others expressed concerns about the impact on rural communities and businesses that rely on mail delivery. Despite the USPS\u2019s claims that the change would not affect service quality, many remained skeptical, as the agency has faced criticism for its handling of mail in recent years.  What is the main idea of this passage?",
+                        "explanation": "The passage primarily focuses on the USPS's decision to eliminate Saturday delivery of first-class mail and the reactions to this decision, including the arguments for and against the change, as well as the concerns about the impact on service quality.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_c2",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "social media use can have both positive and negative effects on mental health.",
+                            "B": "stress and anxiety are common among teenagers, regardless of social media use.",
+                            "C": "other factors, such as family dynamics or school pressure, might contribute to stress and anxiety.",
+                            "D": "social media use can be a symptom of mental health issues, not a cause of them."
+                        },
+                        "question": "The researchers\u2019 caution that correlation does not equal causation is most likely due to the fact that",
+                        "paragraph": "In a recent study, researchers explored the impact of social media on adolescents\u2019 mental health. They examined the use of social media among a large sample of teenagers, and they found a strong correlation between social media use and increased levels of stress and anxiety. However, the researchers cautioned that correlation does not equal causation. To prove that social media is directly causing increased levels of stress and anxiety, further research is needed. What is the most likely reason why the researchers cautioned that correlation does not equal causation?",
+                        "explanation": "The researchers caution that correlation does not equal causation because other factors, besides social media, could be contributing to the increased levels of stress and anxiety among adolescents. For example, family dynamics or school pressure could also be factors. It is important to conduct further research to establish a causal relationship between social media use and mental health issues.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_b9",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "using a series of vivid sensory details.",
+                            "B": "introducing a new character into the story.",
+                            "C": "shifting from an objective to a subjective point of view.",
+                            "D": "repeating key words and phrases to emphasize certain ideas."
+                        },
+                        "question": "The shift in the passage from setting the scene to describing the character\u2019s thoughts and feelings is most likely achieved by",
+                        "paragraph": "The author begins the passage by setting the scene, describing the physical environment of the town and the time of day. The author then introduces the main character, explaining her background and motivations. The author then shifts to a more direct and personal style, as the character begins to recount her experiences. How does the author shift from setting the scene to describing the character\u2019s thoughts and feelings?",
+                        "explanation": "The author shifts from an objective description of the setting to a more subjective account of the character's thoughts and feelings. The shift from an objective to a subjective point of view allows the reader to experience the story from the character\u2019s perspective, which can make the story more engaging.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "78b8f94d",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "explain the role of technology in the modern writing process.",
+                            "B": "illustrate how the writing process is more collaborative than it might seem.",
+                            "C": "emphasize the need for writers to be more objective in their writing.",
+                            "D": "suggest that writers should be more willing to share their ideas with others."
+                        },
+                        "question": "The most likely reason the author uses the examples of ghostwriters and beta readers in the passage is to",
+                        "paragraph": "The author of the passage argues that the process of writing, which has traditionally been seen as a solitary activity, is actually more collaborative. The author provides several examples to support this point, including the use of ghostwriters and the fact that many writers use beta readers to offer feedback on their work.  Which of the following is an example of the author's argument?",
+                        "explanation": "The author cites the examples of ghostwriters and beta readers to show that the writing process often involves collaboration. Ghostwriters help writers produce their work, and beta readers offer feedback and suggestions. Therefore, the examples of ghostwriters and beta readers support the author's argument that writing is a more collaborative process than it might seem.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "7348f097",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "provide an objective and unbiased account of past events.",
+                            "B": "develop a deeper understanding of the present.",
+                            "C": "highlight the importance of preserving historical records.",
+                            "D": "demonstrate the superiority of historical knowledge over contemporary knowledge."
+                        },
+                        "question": "The passage suggests that historians use historical events and figures to",
+                        "paragraph": "Although many people believe that the purpose of history is to learn about the past, historians often use historical events and figures to explore contemporary issues. By studying historical events, they can illuminate the complexities of the present and offer insights into the challenges and opportunities of the future. Examining the past also allows them to identify patterns and trends that can help them understand how society has evolved and to predict future developments.",
+                        "explanation": "The passage states that historians use historical events to explore contemporary issues. This implies that they are using historical events to help them better understand the present. The passage also suggests that by studying historical events, historians can gain insights into the challenges and opportunities of the future, which is another way that the study of the past can help them understand the present.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_eng1",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "warn readers that the technology is not yet ready for widespread use.",
+                            "B": "contrast the benefits of the technology with its limitations.",
+                            "C": "criticize the developers of the technology for not addressing these challenges.",
+                            "D": "explain the complex scientific principles behind the technology."
+                        },
+                        "question": "The author discusses the challenges facing this new technology most likely to",
+                        "paragraph": "The passage describes a new type of technology that is being used to help people with vision loss. This new technology involves using a device that translates images into sound waves, allowing people to \u201csee\u201d the world through their ears. The author explains how the device works and its potential benefits. However, the author also points out that this technology is still in its early stages of development, and there are challenges that need to be addressed. What is the most likely reason why the author discusses the challenges facing this new technology?",
+                        "explanation": "The author discusses both the potential benefits and the limitations of the new technology. This helps the reader understand the technology\u2019s current state of development and its potential impact on people with vision loss.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "8e9e40e4",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "the abstract nature of modern art can be difficult for the average person to understand.",
+                            "B": "the average person is more likely to enjoy traditional art forms than modern art.",
+                            "C": "abstract art forms are often used to express the artist\u2019s own personal feelings and experiences.",
+                            "D": "modern art is often used as a way to communicate a message that is universally understood."
+                        },
+                        "question": "The critics of modern art are most likely to cite the abstract nature of much modern art as evidence for their claim that modern art is less relevant to the average person because",
+                        "paragraph": "Some critics of modern art argue that it has lost touch with the real world, and that it is therefore less relevant to the average person than traditional art forms. They point to the abstract nature of much modern art, which they say can be difficult for the average person to understand. They also argue that modern art is often used as a way to express the artist\u2019s own personal feelings and experiences, rather than to communicate a message that is universally understood. What is the most likely reason why the critics of modern art cite the abstract nature of much modern art as evidence for their claim?",
+                        "explanation": "The passage states that critics argue that modern art is less relevant to the average person than traditional art forms. They specifically say that this is because modern art can be difficult for the average person to understand. The abstract nature of modern art is therefore seen as a barrier to understanding and therefore relevance for the average person.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "7844609b",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "create a sense of humor and lightheartedness.",
+                            "B": "establish a sense of urgency and suspense.",
+                            "C": "provide a detailed description of the protagonist\u2019s surroundings.",
+                            "D": "suggest that the protagonist is not in control of his or her own fate."
+                        },
+                        "question": "The repetition of the phrase \"the clock is ticking\" in the passage most likely serves to",
+                        "paragraph": "The author uses a variety of rhetorical devices to create a sense of urgency and suspense. One technique used is the repetition of words and phrases. For example, the phrase \"the clock is ticking\" is repeated several times throughout the passage. The author also uses short, declarative sentences to increase the pace of the narrative. The use of imagery also helps to create a sense of urgency. For instance, the author describes the protagonist as \"racing against time.\" What is the most likely reason why the author uses repetition in this passage?",
+                        "explanation": "The repetition of the phrase \"the clock is ticking\" creates a sense of urgency and suspense, which is appropriate for a passage that is building toward a climax.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "86e80d9c",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "It introduces a new idea that is developed in the next sentence.",
+                            "B": "It provides a contrast between the speaker\u2019s past and present.",
+                            "C": "It explains a reason for the speaker\u2019s change in attitude.",
+                            "D": "It summarizes the speaker\u2019s overall experience."
+                        },
+                        "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+                        "paragraph": "After living in the same small town for 15 years, she was ready for a change. The city seemed to offer a dizzying array of possibilities, each one more exciting than the last.  She quickly realized that the city was not what she had expected\u2014in fact, it was a lot more difficult to make friends than she had imagined.  This realization made her appreciate the simplicity of life in her hometown.  She even found herself missing the familiar faces of her neighbors, the quiet streets, and the familiar routine.  However, she was determined to make the most of her new life, and she eventually found her place in the city.  She realized that the city was not about avoiding challenges, but about embracing them, and she was ready to take on whatever it threw her way.",
+                        "explanation": "The underlined sentence explains why the speaker's attitude has changed.  The speaker initially expected the city to be easier than it was, but she has come to appreciate the challenges of city life.  This change in attitude is the result of the speaker's realization that the city is not as simple as her hometown.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_e5",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "emphasize the beauty and serenity of the building.",
+                            "B": "highlight the character's emotional state.",
+                            "C": "create a sense of unease and anticipation.",
+                            "D": "suggest that the building is a symbol of hope and renewal."
+                        },
+                        "question": "The phrase \"a strange, almost uncanny\" is used to",
+                        "paragraph": "The author uses the phrase \"a strange, almost uncanny\" to describe the experience of the character as they enter the building. This phrase is used to create a sense of mystery and wonder for the reader, and it helps to emphasize the otherworldly nature of the setting. What is the most likely reason why the author chooses to use the phrase \"a strange, almost uncanny\" to describe this experience?",
+                        "explanation": "The phrase \"a strange, almost uncanny\" is used to create a sense of unease and anticipation for the reader, as the character enters a mysterious and unknown place. This foreshadows the strange and potentially dangerous events that unfold in the story.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "22f23d12",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "demonstrate the idea\u2019s practical application.",
+                            "B": "make the passage more engaging and entertaining.",
+                            "C": "provide background information about the topic.",
+                            "D": "support a specific point of view on the subject."
+                        },
+                        "question": "In the passage, the author uses anecdotes to",
+                        "paragraph": "The author\u2019s primary goal in the passage is to explain how a particular idea can be applied to a specific situation. The author uses a series of examples and anecdotes to illustrate the idea, and the author ends the passage by offering a final thought or conclusion. What is the most likely reason why the author uses anecdotes in the passage?",
+                        "explanation": "Anecdotes are used in the passage to demonstrate how the idea can be applied in a practical sense. The author uses these stories to make the concept more relatable and understandable to the reader.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "f8977781",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "contrast the author\u2019s view of reality with the views of previous generations.",
+                            "B": "explain why digital media has a negative impact on students\u2019 understanding of reality.",
+                            "C": "support the author\u2019s claim that digital media has a more profound impact on students\u2019 understanding of reality than previous generations.",
+                            "D": "provide an example of how digital media has changed students\u2019 understanding of reality."
+                        },
+                        "question": "The author\u2019s argument that \"digital media makes us more conscious of the artificiality of the real\" most likely serves to",
+                        "paragraph": "The author argues that the current generation of students has a more complicated understanding of reality than previous generations, in part because of the prevalence of digital media. One reason the author gives for this is that digital media \"makes us more conscious of the artificiality of the real.\" What is the most likely reason why the author includes this argument?",
+                        "explanation": "The author\u2019s argument that \"digital media makes us more conscious of the artificiality of the real\" directly supports the claim that the current generation of students has a more complicated understanding of reality than previous generations. The author is arguing that digital media has had a profound effect on how students understand reality, which has made their understanding more complicated.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "213ff303",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "completing tasks is important for both personal and professional growth.",
+                            "B": "completing tasks is a necessary part of life, regardless of the difficulty.",
+                            "C": "completing tasks, even easy ones, can make people feel more capable.",
+                            "D": "completing tasks can be more rewarding than people often realize."
+                        },
+                        "question": "The author's use of the phrase \"a sense of accomplishment\" suggests that the author believes that",
+                        "paragraph": "The author uses the phrase \"a sense of accomplishment\" to refer to the feeling that people experience when they complete a task. This phrase is used to emphasize the positive aspect of completing a task, even if the task was relatively easy. The author could have used other phrases to describe the feeling of completing a task. For example, the author could have used the phrase \"a feeling of satisfaction\" or \"a feeling of pride.\" However, the author chose to use the phrase \"a sense of accomplishment\" to specifically highlight the importance of completing a task, regardless of its difficulty. What is the most likely reason why the author chose to use the phrase \"a sense of accomplishment\"?",
+                        "explanation": "The author's use of the phrase \"a sense of accomplishment\" specifically emphasizes the feeling of capability that people experience after completing a task, regardless of its difficulty. This is why choice C is the best answer. The author is suggesting that completing tasks, even easy ones, can make people feel more capable. Choice A is a general statement about the importance of completing tasks, but it doesn't specifically focus on the feeling of capability. Choices B and D are too broad and don't accurately reflect the author's specific use of the phrase \"a sense of accomplishment.\"",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "9a2f7d56",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "support only the author\u2019s main idea.",
+                            "B": "only support the author\u2019s claims.",
+                            "C": "only explain the author\u2019s perspective.",
+                            "D": "support or refute the author\u2019s main idea."
+                        },
+                        "question": "In this passage, the author suggests that evidence is used to",
+                        "paragraph": "It is generally acknowledged that a well-structured argument should be supported with clear and relevant evidence. However, it's important to recognize that evidence can also be used to establish a counterargument or to challenge a different perspective. The most compelling arguments often acknowledge opposing views and then address them in a way that strengthens the argument. How would an author most likely use evidence to further the argument?",
+                        "explanation": "In the passage, the author states that evidence is used to support an argument, but can also be used to refute the opposing argument. Therefore, the author is suggesting that evidence can be used to either support or refute the author's main idea. This is the most accurate and comprehensive answer.",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "54f7813e",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The underlined portion introduces the main claim of *The Second Sex*. ",
+                            "B": "The underlined portion provides evidence for the author\u2019s claim that the way women are defined in society is a problem. ",
+                            "C": "The underlined portion explains the concept of patriarchy. ",
+                            "D": "The underlined portion summarizes Beauvoir\u2019s argument about the limitations of women\u2019s potential."
+                        },
+                        "question": "Which choice best explains the purpose of the underlined portion of the text?",
+                        "paragraph": "In her book, *The Second Sex,* Simone de Beauvoir makes the point that women are often defined by their relationship to men. Beauvoir argues that this way of thinking about women is a product of patriarchy, which she defines as a system of power in which men have more social and political power than women. Beauvoir\u2019s main claim in *The Second Sex* is that the way women are defined in society is a problem because it prevents women from fully achieving their potential.",
+                        "explanation": "The underlined portion introduces the main claim of *The Second Sex*, which is that the way women are defined in society is a problem. This claim is supported by the rest of the passage, which explains Beauvoir\u2019s arguments in detail. The other choices are incorrect because they describe other aspects of the passage, but they don\u2019t accurately explain the purpose of the underlined portion.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "4e9c1f6d",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "pastries, which are made with fresh, local ingredients, ",
+                            "B": "pastries which are made with fresh, local ingredients, ",
+                            "C": "pastries, which are made with fresh, local ingredients; ",
+                            "D": "pastries; which are made with fresh, local ingredients, "
+                        },
+                        "question": "Which choice provides the best punctuation for the underlined portion of the passage?",
+                        "paragraph": "The new cafe on Main Street is known for its delicious pastries, which are made with fresh, local ingredients.  The cafe also has a wide selection of coffee drinks, and its baristas are highly skilled in creating latte art.  The cafe is open until 10 p.m. every night, offering a late-night option for those seeking a sweet treat or a caffeine fix.  The cafe is already a popular spot for locals and tourists alike. ",
+                        "explanation": "The underlined phrase \"which are made with fresh, local ingredients\" is a nonrestrictive clause because it provides additional information about the pastries but does not change the meaning of the sentence.  Nonrestrictive clauses are set off with commas. Choice B is incorrect because it fails to use a comma after the introductory word \"which.\" Choice C is incorrect because it uses a semicolon to separate the nonrestrictive clause, but semicolons are used to separate two independent clauses. Choice D is incorrect because it uses a semicolon and a comma to separate the nonrestrictive clause, which is incorrect.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_e8",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "changes, in the environment, on the banks of the Provo River downstream of the Jordanelle Dam were not necessarily the direct consequence of the dam\u2019s construction.",
+                            "B": "changes in the environment on the banks of the Provo River downstream of the Jordanelle Dam, were not necessarily the direct consequence of the dam\u2019s construction.",
+                            "C": "changes in the environment, on the banks of the Provo River downstream of the Jordanelle Dam were not necessarily the direct consequence, of the dam\u2019s construction.",
+                            "D": "changes in the environment on the banks of the Provo River downstream of the Jordanelle Dam were not necessarily the direct consequence of the dam\u2019s construction."
+                        },
+                        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+                        "paragraph": "The scientists concluded that the  __changes in the environment on the banks of the Provo River downstream of the Jordanelle Dam were  not necessarily the direct consequence of the dam\u2019s construction. __",
+                        "explanation": "The best answer is D because it uses the correct punctuation. When a modifying phrase, such as \"in the environment on the banks of the Provo River downstream of the Jordanelle Dam,\" is added to a sentence, it should be separated by commas.  In this case, the phrase is not essential to the meaning of the sentence and can be removed without changing the meaning of the sentence.  Therefore, it should be set off with commas. Choices A, B, and C are incorrect because they use incorrect punctuation. Choice A is incorrect because it adds an unnecessary comma after \"environment.\" Choice B is incorrect because it uses a comma to set off a phrase that is essential to the meaning of the sentence and can't be removed without changing the meaning of the sentence. Choice C is incorrect because it uses a comma after \"consequence,\" which is not a necessary punctuation mark.",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "12d8c11d",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "shake",
+                            "B": "shake,",
+                            "C": "shake; ",
+                            "D": "shake\u2014"
+                        },
+                        "question": "A symphony orchestra playing in a concert hall can be so powerful, that the music seems to _______  the audience\u2019s very bones.",
+                        "paragraph": "The author is trying to emphasize the unique experience of listening to live music, describing how the audience can physically feel the music. Which choice best completes the passage so that it conforms to the conventions of Standard English?",
+                        "explanation": "The correct answer is \"shake.\"  The sentence is not a compound sentence, so no punctuation is needed.  The comma in Choice B, the semicolon in Choice C, and the em dash in Choice D would all create punctuation errors.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_e8",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                            "B": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                            "C": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                            "D": "while harmless applications of vibration or warming can provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context."
+                        },
+                        "question": "Which choice best corrects the error in the underlined portion of the sentence?",
+                        "paragraph": "The scientist\u2019s research challenged the common belief that the use of external stimuli to reduce itching was ineffective, even when those stimuli seemed benign. Ward and colleagues found that while harmless applications of vibration or warming could provide a temporary distraction, these innocuous stimuli actually offered less relief than a stimulus that seemed less benign, like a mild electric shock. This finding suggests that as much as the use of external stimuli can be effective, the use of innocuous stimuli can be even more effective, especially when applied in the right context.",
+                        "explanation": "The underlined portion includes a comma splice, which occurs when two independent clauses are joined by a comma without a coordinating conjunction. To correct this error, the comma should be replaced with a semicolon. Choice C is the only choice that makes this correction.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "54c1b2dd",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "waterways and the fact that,",
+                            "B": "waterways, and the fact that,",
+                            "C": "waterways, and, the fact that",
+                            "D": "waterways and the fact that"
+                        },
+                        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+                        "paragraph": "Gathering accurate data on water flow in the United States is challenging because of the country\u2019s millions of miles of ______ the volume and speed of water at any given location can vary drastically over time.",
+                        "explanation": "Choice D is the best answer. The convention being tested is punctuation within two coordinated noun phrases. When, as in this case, a noun phrase (\"the country\u2019s millions of miles of waterways\") is coordinated with another noun phrase (\"the fact\") followed by an integrated relative clause (\"that the volume...time\"), no punctuation is needed.",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_d7",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The dog, its tail wagging happily, ran toward the door as soon as its owner walked in.",
+                            "B": "The dog, whose tail wagging happily, ran toward the door as soon as its owner walked in.",
+                            "C": "The dog, whose tail was wagging happily, ran toward the door as soon as its owner walked in.",
+                            "D": "The dog, whose tail wagged happily, ran toward the door as soon as its owner walked in."
+                        },
+                        "question": "Which choice best corrects the error in the following sentence? The dog, whose tail was wagging happily, ran toward the door as soon as its owner walked in.",
+                        "paragraph": "null",
+                        "explanation": "The original sentence has an incorrect verb tense.  \"Wagging\" should be in the past continuous tense, \"was wagging\" to match the rest of the sentence, which describes the dog\u2019s action at a specific moment in the past.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Easy"
+                },
+                {
+                    "id": "f9939d2c",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.",
+                            "B": "The director is the one who, when he or she has a vision for a project, knows how to inspire the actors to embody it.",
+                            "C": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.",
+                            "D": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it."
+                        },
+                        "question": "Which choice corrects the grammatical error in the sentence above?",
+                        "paragraph": "The director is the one who, when they have a vision for a project, knows how to inspire the actors to embody it.  ",
+                        "explanation": "The pronoun \"they\" is incorrect because the antecedent, \"the director,\" is singular.  Choice B corrects the error by using the pronoun \"he or she\" to agree with the singular antecedent.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                }
+            ],
+            "module_2": [
+                {
+                    "id": "random_id_b8",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "ancient civilizations left behind little evidence of their existence.",
+                            "B": "researchers often lack the necessary skills to analyze ancient artifacts.",
+                            "C": "the study of ancient civilizations is often based on incomplete information.",
+                            "D": "ancient civilizations were very different from modern society."
+                        },
+                        "question": "The author of this passage suggests that interpreting ancient civilizations is difficult because",
+                        "paragraph": "The following passage discusses the challenges of interpreting and understanding ancient civilizations. \"Historians studying ancient civilizations often have to grapple with the fact that they\u2019re analyzing a culture that\u2019s long gone. The civilization may have left behind evidence of its customs, art, and ways of life, but much of its language, beliefs, and history are lost to time. Researchers must rely on the fragments of information that have survived, piecing together a picture of a complex society from incomplete data.\" What is the main point made by the author of this passage?",
+                        "explanation": "The passage emphasizes the difficulty of piecing together a complete understanding of an ancient civilization from limited evidence. The author's point is that researchers can only interpret ancient civilizations based on the fragments of information that have survived, and it is often difficult to get a full picture from incomplete data.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "f8626288",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "the advantages and disadvantages of using technology in society.",
+                            "B": "the importance of considering the potential impacts of technology on the environment.",
+                            "C": "the way in which the introduction of new technology is often met with resistance.",
+                            "D": "the history of technological change and its impact on societies."
+                        },
+                        "question": "The passage is primarily concerned with",
+                        "paragraph": "Many people, including historians, have been fascinated by the impact of technological change on societies. Although the impact of technology on society is often seen as a positive, it can have a negative effect, especially when a new technology is introduced into a society without much thought being given to its impact. For example, the introduction of new technologies to societies where traditional methods have been used for generations can have a negative impact on the environment.  Such environmental degradation, however, can be avoided by carefully considering the impact of new technologies before they are introduced. \n\nWhat is the main idea of the passage?",
+                        "explanation": "The passage suggests that the introduction of new technology can negatively impact the environment, and it argues that such negative impacts can be avoided by considering the potential impacts of new technologies before they are introduced. The passage does not discuss advantages and disadvantages, the history of technological change, or the resistance to new technology, which are the primary concerns of the other choices.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_a5",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "society should be organized around shared values and traditions.",
+                            "B": "individual differences are more important than shared experiences.",
+                            "C": "individual experiences should be respected and appreciated.",
+                            "D": "people should focus on their own individual journeys."
+                        },
+                        "question": "The author emphasizes that",
+                        "paragraph": "The author emphasizes the importance of respecting individual experiences by noting that \"there are many ways to be.\" This statement suggests that people should not be categorized by their cultural backgrounds or societal roles. Instead, they should be appreciated for their unique qualities and perspectives. The author also points out that \"we are all connected.\" This suggests that everyone has a role to play in society, and that we are all interconnected through our shared humanity. What is the main point of the passage?",
+                        "explanation": "The passage highlights the importance of respecting individual experiences and appreciating people for their unique qualities. This is shown by the phrase \"there are many ways to be.\" The passage also suggests that we are all interconnected through our shared humanity, highlighting the importance of recognizing our shared experiences. This is emphasized by the phrase \"we are all connected.\"",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "1431da92",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "a desire for a more intimate and conversational style.",
+                            "B": "the need for a more curated listening experience.",
+                            "C": "a growing trend toward emphasizing quality over quantity.",
+                            "D": "the phenomenon of \"podcasting fatigue.\""
+                        },
+                        "question": "The passage suggests that the increasing popularity of podcasts focused on a single topic or theme is a result of",
+                        "paragraph": "The recent surge in popularity of podcasts, particularly those focused on true crime, has led to a phenomenon known as \"podcasting fatigue.\" Podcast listeners, overwhelmed by the sheer volume of available content, are increasingly finding themselves unable to keep up with the latest episodes, leaving many podcasts unfinished or abandoned. This phenomenon has led some podcast creators to reconsider their approach to content creation, emphasizing quality and depth over sheer quantity. This is evident in the increasing prevalence of podcasts that focus on a single topic or theme, or that offer a more intimate and conversational style. This trend is a response to the listener's need for a more curated and meaningful listening experience.",
+                        "explanation": "The passage states that \"podcasting fatigue\" is a result of listeners being overwhelmed by the volume of available content. It goes on to say that this phenomenon has led to a trend toward podcasts that focus on a single topic or theme, suggesting that this trend is a response to the problem of \"podcasting fatigue.\"",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_e4",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "suggests that the ability to count is a complex skill that could only be developed by a highly intelligent species.",
+                            "B": "challenges the long-held belief that ants are incapable of complex thought processes.",
+                            "C": "overturns the widely accepted theory that all insects are unable to count.",
+                            "D": "provides evidence that some species of ants are more intelligent than others."
+                        },
+                        "question": "The authors describe the finding as \"revolutionary\" most likely because it",
+                        "paragraph": "The text explains that in 2018, a group of researchers published a study that suggested that some species of ants are able to count. This was a revolutionary finding. What is the most likely reason why the authors call this finding \"revolutionary\"?",
+                        "explanation": "The text states that the finding was revolutionary because it challenged the long-held belief that ants were incapable of complex thought processes. The text states that the finding suggested that some species of ants are able to count, which implies that they are capable of a higher level of cognitive function than was previously thought.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_a8",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The author of the article suggests that the current economic climate is characterized by both opportunity and uncertainty.",
+                            "B": "The author of the article argues that the increase in online shopping is a sign of the economic uncertainty that consumers are facing.",
+                            "C": "The author of the article suggests that the rise of e-commerce is an example of the new opportunities that businesses are facing in the current economic climate.",
+                            "D": "The author of the article concludes by arguing that businesses need to be aware of both the opportunities and the challenges of the new economic climate in order to succeed."
+                        },
+                        "question": "Which choice best describes the main idea of the article?",
+                        "paragraph": "The author of the article suggests that the current economic climate is characterized by both opportunity and uncertainty.  One of the main points is that the rise in the popularity of online shopping is an example of this uncertainty. The author explains that consumers are constantly trying to predict how prices will fluctuate, and that this leads to a great deal of anxiety.  Another of the author\u2019s main points is that the increase in the use of e-commerce is an example of the opportunities presented by the new economic climate. The author suggests that the ability of businesses to reach a wider audience through online platforms is a major advantage that is helping to drive economic growth. The author concludes the article by arguing that businesses need to be aware of both the opportunities and the challenges of the new economic climate in order to succeed.  Which of the following choices best describes the main idea of the article?",
+                        "explanation": "The main idea of the article is that the current economic climate is characterized by both opportunity and uncertainty. The author discusses both the uncertainty associated with online shopping and the opportunities presented by e-commerce.  Therefore, A is the best choice.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "62ac916c",
+                    "domain": "Information and Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The importance of having a broad perspective on knowledge and history.",
+                            "B": "The need to consider the potential applications of knowledge in the real world.",
+                            "C": "The importance of considering the social implications of knowledge and history.",
+                            "D": "The need to be aware of the larger historical and social forces that shape the events and ideas we encounter."
+                        },
+                        "question": "What is the central idea of this passage?",
+                        "paragraph": "From the very first day of class, Ms. Thomas reminded her students of the importance of thinking about the larger context of what they were learning. She stressed that their studies were not isolated from the world and that they should always consider how their knowledge could be applied to real-world situations. And she emphasized the need for students to be aware of the broader historical and social forces that shaped the events and ideas they encountered. \"You can\u2019t understand anything in isolation,\" she would say. \"You have to look at the big picture.\"",
+                        "explanation": "The passage emphasizes the importance of having a broad perspective, considering the larger context of what is being learned, and being aware of the historical and social factors that have shaped it.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_e1",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "presentation of a problem followed by a summary of various perspectives on that problem.",
+                            "B": "description of a phenomenon followed by an explanation of that phenomenon and the evidence to support it.",
+                            "C": "comparison of two different explanations of a phenomenon, followed by a recommendation for further research.",
+                            "D": "discussion of a phenomenon followed by a list of steps that could be taken to resolve it."
+                        },
+                        "question": "The text as a whole can best be described as a",
+                        "paragraph": "The author describes a number of different features of a common phenomenon and then offers a potential explanation for that phenomenon. The author presents evidence to support the potential explanation before concluding that further research is needed to understand the phenomenon fully. Which choice best describes the overall structure of this text?",
+                        "explanation": "The text begins by describing the phenomenon in question, then presents a potential explanation for the phenomenon, and then provides evidence to support that potential explanation. Since it concludes with the statement that further research is needed, the text suggests that the author is not fully satisfied with the explanation offered.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "238f8392",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "Text 1 emphasizes the benefits of the technology, while text 2 focuses on the potential negative effects of the technology.",
+                            "B": "Text 1 discusses the history of the technology, while text 2 focuses on the future of the technology.",
+                            "C": "Text 1 presents a more personal viewpoint, while text 2 presents a more objective viewpoint.",
+                            "D": "Text 1 focuses on the economic impact of the technology, while text 2 focuses on the social impact of the technology."
+                        },
+                        "question": "Which choice best describes the difference in the authors\u2019 viewpoints?",
+                        "paragraph": "While the author of the text 1 believes that this is a positive development for the community, the author of text 2 presents a more cautious viewpoint, emphasizing the potential drawbacks of this new technology. Although text 1 highlights the advantages of increased efficiency and the potential to reduce costs, text 2 cautions that the technology could lead to job displacement and a decrease in economic opportunities. What is the most likely reason the authors of text 1 and text 2 have such different viewpoints?",
+                        "explanation": "Text 1 focuses on the positive impact of the technology, while text 2 focuses on the potential negative effects. This is the most likely reason why the authors have such different viewpoints. The author of text 1 is likely more optimistic about the technology, while the author of text 2 is likely more concerned about the potential downsides.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_c5",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "present a balanced view of the technology by highlighting both its positive and negative aspects.",
+                            "B": "explain the history of the technology and its development over time.",
+                            "C": "convince the reader that the technology should be used with caution.",
+                            "D": "persuade the reader to invest in the technology."
+                        },
+                        "question": "The author most likely structures the passage in this way to",
+                        "paragraph": "In the first paragraph, the author discusses the benefits of using a particular technology. The second paragraph provides a warning about the potential risks associated with using the technology. What is the most likely reason the author structures the passage in this way?",
+                        "explanation": "The author presents both the benefits and risks of the technology, creating a balanced view and allowing the reader to make an informed decision.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "645fd11a",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "present the musician\u2019s style in a more detailed and nuanced way.",
+                            "B": "suggest that the musician is similar to other musicians.",
+                            "C": "emphasize the musician\u2019s unique talent.",
+                            "D": "create a contrast between the musician\u2019s style and the music\u2019s style."
+                        },
+                        "question": "In this passage, the author uses a comparison to",
+                        "paragraph": "The opening sentence of this excerpt establishes the author\u2019s purpose. The author has two key objectives: to offer readers a glimpse into the life of a specific musician and to provide evidence of a particular quality that makes the musician unique. This is a common rhetorical strategy for writers who want to engage readers in a compelling narrative. The author first describes the music as a means of showcasing this quality. In a later sentence, the author elaborates on the musician\u2019s unique quality by making a comparison. What is the most likely reason why the author uses a comparison?",
+                        "explanation": "The comparison between the musician\u2019s talent and the music\u2019s style is used to emphasize the musician\u2019s unique talent by highlighting a particular quality that sets the musician apart from others.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "f489ab3f",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "create a sense of atmosphere and mood.",
+                            "B": "provide evidence for the speaker\u2019s argument.",
+                            "C": "explain the historical significance of the place.",
+                            "D": "highlight the speaker\u2019s personal connection to the place."
+                        },
+                        "question": "The writer's use of sensory details in this passage most likely serves to",
+                        "paragraph": "The writer uses a combination of vivid imagery and concrete detail to create a sense of place. For example, the writer describes the \u201ccool air\u201d of the mountains, the \u201cgreen grass\u201d of the valley, and the \u201cwinding roads\u201d that lead to the town. What is the most likely reason the writer uses sensory details?",
+                        "explanation": "The writer's use of sensory details, such as the \"cool air\" and \"green grass,\" creates a vivid sense of atmosphere and mood. These details help the reader imagine the setting and feel more connected to the passage.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "876ff31a",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "emphasize the beauty of the natural world.",
+                            "B": "create a sense of drama and suspense.",
+                            "C": "provide a detailed account of the shipwreck.",
+                            "D": "show the narrator\u2019s fear and desperation."
+                        },
+                        "question": "Crane\u2019s use of vivid imagery and strong verbs in this passage most likely serves to",
+                        "paragraph": "As the author of \"The Open Boat\" Stephen Crane uses vivid imagery and strong verbs to create the scene of the shipwreck. He describes the ocean as \"an angry, choppy, and tumultuous sea,\" and he uses words like \"crashed\" and \"roared\" to describe the waves. What is the most likely reason why Crane uses this imagery and language?",
+                        "explanation": "The author\u2019s use of vivid imagery and strong verbs creates a sense of drama and suspense. This helps the reader feel the intensity of the scene and empathize with the characters.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "a983e3c5",
+                    "domain": "Craft and Structure",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "provide a specific example of the type of figurative language that writers use.",
+                            "B": "explain how figurative language can be used to make writing more vivid.",
+                            "C": "illustrate how figurative language can help readers understand a person\u2019s emotions.",
+                            "D": "contrast the use of figurative language with the use of literal language."
+                        },
+                        "question": "In this paragraph, the simile \"bright as the sun\" is used to",
+                        "paragraph": "The use of figurative language, like metaphors and similes, can help to make a piece of writing more vivid and engaging.  By comparing one thing to another, writers can help readers visualize and understand their ideas in new ways.  For example, a writer might describe a person's smile as \u201cbright as the sun.\u201d This simile helps the reader imagine the brightness and warmth of the person's smile.  How does this sentence contribute to the paragraph?",
+                        "explanation": "The simile \"bright as the sun\" is used to illustrate how figurative language can help readers visualize and understand a person\u2019s emotions.  The simile helps the reader imagine the brightness and warmth of the person's smile, which makes the description more vivid and engaging.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_a8",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "highlight the speaker\u2019s newfound appreciation for his surroundings.",
+                            "B": "underscore the speaker\u2019s sense of accomplishment.",
+                            "C": "emphasize the speaker\u2019s newfound freedom from past burdens.",
+                            "D": "suggest that the speaker\u2019s emotional state is one of contentment."
+                        },
+                        "question": "The phrase \"a sense of relief\" in the passage primarily serves to",
+                        "paragraph": "The author's use of the phrase \"a sense of relief\" in the passage helps to convey the speaker\u2019s point of view. The author emphasizes that the speaker is relieved to have escaped from a difficult situation. The author also suggests that the speaker is grateful for the opportunity to be free from the pressures of his past life. In doing so, the author helps the reader understand the speaker\u2019s emotional state. Which choice best describes the effect of the phrase \"a sense of relief\" in the passage?",
+                        "explanation": "The phrase \"a sense of relief\" emphasizes the speaker's newfound freedom from past burdens. The speaker is relieved to have escaped from a difficult situation and is grateful for the opportunity to be free from the pressures of his past life. This is the most direct and immediate effect of the phrase in the passage.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_a8",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "people are always influenced by the opinions of others.",
+                            "B": "people are more likely to be influenced by the opinions of those who are close to them.",
+                            "C": "people are influenced by a variety of factors, including the opinions of others and the way in which ideas are presented.",
+                            "D": "people are more likely to be influenced by the opinions of those who are experts in a particular field."
+                        },
+                        "question": "The author's central point is that",
+                        "paragraph": "In the passage, the author suggests that there are a variety of ways in which people can be influenced by others. The author argues that people who do not support certain ideas may be influenced by the opinions of the people who do support the ideas. In addition, the author suggests that people may be influenced by the way that things are presented. For example, the author notes that people may be more likely to agree with an idea if it is presented in a way that makes it seem more appealing or logical. What is the author's main point?",
+                        "explanation": "The author is suggesting that people can be influenced by a variety of factors, including the opinions of others and the way in which ideas are presented. This is demonstrated by the author's discussion of how people can be influenced by those who support certain ideas, as well as by how people can be influenced by the way that things are presented.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "57b987d7",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "the founding fathers created a republic to balance the interests of the people with the need for a stable government.",
+                            "B": "the republic is a new form of government that is still developing.",
+                            "C": "the United States is a republic, and its principles are enduring and inspiring.",
+                            "D": "mob rule is a dangerous form of government that must be avoided."
+                        },
+                        "question": "The main idea of this essay is that",
+                        "paragraph": "The essay discusses how a new form of government, a republic, was founded in the United States. The essay argues that the founding fathers sought to create a system of government that would be more responsive to the will of the people, but at the same time, they were also concerned about the dangers of mob rule. The essay concludes by saying that the republic is still a work in progress, but that its principles are enduring and inspiring. What is the main idea of this essay?",
+                        "explanation": "The essay explains how the founding fathers sought to balance the people\u2019s will with the need for a stable government. The essay argues that the founding fathers were concerned about the dangers of mob rule, and that the republic is still a work in progress. The essay concludes by saying that the republic is still a work in progress, but that its principles are enduring and inspiring. This suggests that the main idea of the essay is that the founding fathers created a republic to balance the interests of the people with the need for a stable government.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_a12",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "create a sense of intimacy and connection with the reader.",
+                            "B": "describe the speaker\u2019s feelings and experiences.",
+                            "C": "emphasize the importance of the speaker\u2019s message.",
+                            "D": "suggest that the speaker is addressing a large audience."
+                        },
+                        "question": "In this passage, the metaphor is used to",
+                        "paragraph": "The author uses several rhetorical devices to convey the central idea of the passage. One such device is the use of metaphor. The author compares the speaker\u2019s feelings to a natural phenomenon, suggesting that the speaker\u2019s emotions are as vast and powerful as nature itself. What is the most likely reason why the writer uses the metaphor?",
+                        "explanation": "The metaphor is used to emphasize the importance of the speaker's message. By comparing the speaker's feelings to nature, the author suggests that the speaker's emotions are powerful and significant. This makes the reader pay more attention to the speaker's words and helps the reader understand the weight of the speaker's message.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "37f8a72d",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The current trend in popular music has made it easier for artists to experiment with new sounds and styles.",
+                            "B": "The rise of streaming services has actually led to a wider range of music being available to listeners.",
+                            "C": "The music industry has become more focused on producing songs that are likely to be commercially successful, rather than songs that are innovative or challenging.",
+                            "D": "The current trend in popular music has led to a wider range of music being available to listeners, and that this trend has made it easier for artists to experiment with new sounds and styles."
+                        },
+                        "question": "Which of the following statements best reflects the viewpoint of the argument that the current trend in popular music has led to a decline in creativity?",
+                        "paragraph": "Some argue that the current trend in popular music has led to a decline in creativity. They point out that the music industry has become more focused on producing songs that are likely to be commercially successful, rather than songs that are innovative or challenging.  Others argue that the rise of streaming services has actually led to a wider range of music being available to listeners, and that the current trend in popular music has made it easier for artists to experiment with new sounds and styles.  Which of the following statements best reflects the viewpoint of the argument that the current trend in popular music has led to a decline in creativity?",
+                        "explanation": "The argument that the current trend in popular music has led to a decline in creativity is based on the idea that the music industry is more focused on commercial success than on innovation. Choice C accurately reflects this viewpoint by stating that the music industry is more focused on producing commercially successful songs than innovative or challenging songs.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_a1",
+                    "domain": "Expression of Ideas",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "provide a detailed description of a specific event or situation.",
+                            "B": "explain the importance of the speaker\u2019s message.",
+                            "C": "create a sense of intimacy and connection with the reader.",
+                            "D": "illustrate a broader point about human nature."
+                        },
+                        "question": "In this passage, the author uses a specific example to",
+                        "paragraph": "The author uses a specific example of an event or a situation to illustrate a broader point about human nature. The author emphasizes the importance of the example by stating that the event or situation is a \"common\" experience. The author also uses a specific detail about the event or situation to make it seem more real to the reader. How does the author use this specific example in the passage?",
+                        "explanation": "The author uses the specific example to illustrate a broader point about human nature, which is the main idea of the passage.",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Easy"
+                },
+                {
+                    "id": "random_id_a8",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "A semicolon",
+                            "B": "A colon",
+                            "C": "A comma",
+                            "D": "No punctuation mark is needed"
+                        },
+                        "question": "In the passage above, what punctuation mark is needed after the phrase \u201ctest-taking strategies?\u201d",
+                        "paragraph": "Many people believe that a good education involves the ability to think critically, solve problems, and communicate effectively. However, these skills are often overlooked in favor of rote memorization and test-taking strategies, which are often seen as the key to academic success. This narrow focus on memorization can stifle creativity and hinder the development of essential critical thinking skills.  What punctuation mark is needed after the phrase \u201ctest-taking strategies\u201d?",
+                        "explanation": "A comma is needed after \u201ctest-taking strategies\u201d to separate the introductory phrase from the main clause. The introductory phrase introduces a list of ideas that are often overlooked in favor of test-taking strategies, and the main clause explains how this narrow focus can stifle creativity. Since the main clause is not a restatement of the introductory phrase, a comma is the most appropriate punctuation mark.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "13865c71",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "refer to the subject matter of the poem.",
+                            "B": "refer to the shape or form of the poem.",
+                            "C": "refer to the author\u2019s feelings about the poem\u2019s subject.",
+                            "D": "refer to the reader\u2019s emotional response to the poem."
+                        },
+                        "question": "In the passage, the phrase \"figure a poem makes\" is used to",
+                        "paragraph": "In her 1952\u00a0essay \"The Figure a Poem Makes,\" poet Marianne Moore makes the point that the \"figure a poem makes\" is not the same as the poem\u2019s subject matter. Instead, Moore argues that the \"figure a poem makes\" is the shape or form the poem takes. Moore gives the example of a poem about \"a single person, the individual.\" Although such a poem might be about a single person, it can take many different forms, such as a sonnet, a free verse poem, a narrative poem, or a dramatic monologue. Each of these forms would produce a different \"figure\" for the poem, even if the subject matter remains the same. According to Moore, a poem\u2019s \"figure\" is a significant element in shaping the reader\u2019s understanding of the poem. What is the most likely reason why the writer uses the phrase \"figure a poem makes\"?",
+                        "explanation": "The phrase \"figure a poem makes\" is a metaphor for the shape or form a poem takes. The passage goes on to explain that the \u201cfigure a poem makes\u201d is a significant element in shaping the reader\u2019s understanding of the poem.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Hard"
+                },
+                {
+                    "id": "random_id_c2",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "This is a significant finding because it suggests that city residents may be at higher risk of developing certain health conditions, such as obesity, heart disease, and diabetes, however, the study also found that people who live in cities tend to have access to more health care resources than those who live in rural areas.",
+                            "B": "This is a significant finding because it suggests that city residents may be at higher risk of developing certain health conditions, such as obesity, heart disease, and diabetes; however, the study also found that people who live in cities tend to have access to more health care resources than those who live in rural areas.",
+                            "C": "This is a significant finding because it suggests that city residents may be at higher risk of developing certain health conditions, such as obesity, heart disease, and diabetes, but the study also found that people who live in cities tend to have access to more health care resources than those who live in rural areas.",
+                            "D": "This is a significant finding because it suggests that city residents may be at higher risk of developing certain health conditions, such as obesity, heart disease, and diabetes; and the study also found that people who live in cities tend to have access to more health care resources than those who live in rural areas."
+                        },
+                        "question": "Which choice provides the best way to combine the sentences, \u201cThis is a significant finding because it suggests that city residents may be at higher risk of developing certain health conditions, such as obesity, heart disease, and diabetes.\u201d and \u201cHowever, the study also found that people who live in cities tend to have access to more health care resources than those who live in rural areas.\u201d?",
+                        "paragraph": "The study found that people who spend more time outside have a lower risk of developing certain health conditions. The study also found that, in general, people who live in urban areas spend less time outdoors than those who live in rural areas.  This is a significant finding because it suggests that city residents may be at higher risk of developing certain health conditions, such as obesity, heart disease, and diabetes. However, the study also found that people who live in cities tend to have access to more health care resources than those who live in rural areas. Therefore, it\u2019s important to consider the availability of health care resources when evaluating the relationship between outdoor time and health.",
+                        "explanation": "The best way to combine these two sentences is by using a coordinating conjunction, \u201cbut,\u201d which shows a contrast between the two ideas. The other choices result in comma splices or incorrect use of punctuation.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_d6",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "The semicolon is a punctuation mark used to join two independent clauses together.",
+                            "B": "The semicolon should only be used to separate two closely related independent clauses in a sentence.",
+                            "C": "The semicolon is a punctuation mark used to separate two independent clauses that are closely related.",
+                            "D": "The semicolon is a punctuation mark used to make writing more sophisticated."
+                        },
+                        "question": "Which choice best states the main idea of the text?",
+                        "paragraph": "The use of a semicolon in a sentence, often used to separate two closely related independent clauses, can be a stylistic choice that makes writing more concise and sophisticated. For example, in the sentence \"The sky was clear, but the air was cold; we knew that a snowstorm was coming.\" the semicolon separates the two independent clauses, which each could stand alone as a sentence. The first clause describes the weather, while the second clause describes the implication of the weather. What is the main idea of the text?",
+                        "explanation": "The text describes the semicolon as a punctuation mark that is used to separate two independent clauses that are closely related. This is the main idea of the text, as it explains the primary function of the semicolon in writing.",
+                        "correct_answer": "C"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_e1",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "However, the telephone was not without its limitations; one of the most notable limitations was that telephone calls were often interrupted by static or noise, which could make it difficult to hear the other person clearly.",
+                            "B": "However, the telephone was not without its limitations. One of the most notable limitations was that telephone calls were often interrupted by static or noise, which could make it difficult to hear the other person clearly.",
+                            "C": "However, the telephone was not without its limitations, one of the most notable limitations was that telephone calls were often interrupted by static or noise which could make it difficult to hear the other person clearly.",
+                            "D": "However, the telephone was not without its limitations; one of the most notable limitations was that telephone calls were often interrupted by static or noise which could make it difficult to hear the other person clearly."
+                        },
+                        "question": "Which of the following choices best corrects the error in punctuation in the sentence \"However, the telephone was not without its limitations, one of the most notable limitations was that telephone calls were often interrupted by static or noise, which could make it difficult to hear the other person clearly.\" ?",
+                        "paragraph": "In the late 19th century, the invention of the telephone drastically changed the way people communicated. It allowed people to talk to each other regardless of distance, making communication more efficient and less time-consuming.  However, the telephone was not without its limitations. One of the most notable limitations was that telephone calls were often interrupted by static or noise, which could make it difficult to hear the other person clearly. The invention of the telephone was also a major social change. It led to the development of new social customs and etiquette, such as the practice of saying \"hello\" when answering the phone and the use of a specific ring tone to signal that a call was incoming. As telephones became more commonplace, they began to play a more significant role in people\u2019s lives, and their use has continued to evolve with the development of new technologies.",
+                        "explanation": "The sentence contains a comma splice, two independent clauses joined by a comma. The error can be corrected by replacing the comma after \"limitations\" with a period. Choice A is incorrect because it uses a semicolon to join the two independent clauses, which is not grammatically correct. Choice C is incorrect because it removes a necessary comma. Choice D is incorrect because it uses a semicolon and removes a necessary comma.",
+                        "correct_answer": "B"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "random_id_a5",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "replace \"that\" with \"which\" ",
+                            "B": "replace \"that\" with \"who\" ",
+                            "C": "remove the phrase \"that the females can smell\" ",
+                            "D": "change \"that this pheromone influences the female\u2019s choice of mate\" to \"which influences the females\u2019 choice of mate\" "
+                        },
+                        "question": "The most effective way to revise the underlined portion of the sentence to improve the clarity of the passage is to",
+                        "paragraph": "A researcher studying the mating habits of the common octopus (Octopus vulgaris) was surprised to find that, rather than selecting a mate based on visual cues, male octopuses seemed to favor a female based on her sense of smell.  The research team hypothesized that, during their mating rituals, the male octopuses secrete a chemical pheromone that the females can smell and that this pheromone influences the female\u2019s choice of mate.  What would be the best way to revise the underlined portion of the sentence to improve the clarity of the passage?",
+                        "explanation": "Choice D is the best way to revise the underlined portion of the sentence to improve the clarity of the passage. This choice clarifies the relationship between the pheromone and the females\u2019 choice of mate by using a relative pronoun, \u201cwhich,\u201d to connect the two ideas.  Choice A is incorrect because \u201cwhich\u201d is not the correct pronoun to use in this context.  Choice B is incorrect because \u201cwho\u201d should be used to refer to a person, not a thing. Choice C is incorrect because removing the phrase \u201cthat the females can smell\u201d would make the sentence grammatically incorrect.",
+                        "correct_answer": "D"
+                    },
+                    "difficulty": "Medium"
+                },
+                {
+                    "id": "d95a85bf",
+                    "domain": "Standard English Conventions",
+                    "visuals": {
+                        "type": "null",
+                        "svg_content": "null"
+                    },
+                    "question": {
+                        "choices": {
+                            "A": "complements",
+                            "B": "complementing",
+                            "C": "complemented",
+                            "D": "complement"
+                        },
+                        "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+                        "paragraph": "The band's recent album, \"The Light in Our Shadows\", is a powerful and moving reflection on themes of loss, hope, and resilience. The music, however, ______ the lyrics, which are often introspective and deeply personal, suggesting a strong connection between the band's musical style and their experiences.",
+                        "explanation": "The sentence requires a verb to describe the relationship between the music and the lyrics. Of the choices, only \"complements\" is a verb that correctly completes the sentence. The other choices are incorrect because they are either participles or nouns, which cannot function as verbs in this context.",
+                        "correct_answer": "A"
+                    },
+                    "difficulty": "Medium"
+                }
+            ]
+        }
+    ]
+}
