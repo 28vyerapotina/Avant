@@ -1,6 +1,0 @@
-python-fasthtml
-requests
-firebase-admin
-python-dotenv
-ipython
-markdown
